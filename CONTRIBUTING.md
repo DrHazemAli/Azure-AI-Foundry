@@ -30,7 +30,7 @@ We welcome contributions from the community! Whether you're fixing a typo, addin
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Azure-AI-Foundry.git
+   git clone https://github.com/DrHazemAli/Azure-AI-Foundry.git
    cd Azure-AI-Foundry
    ```
 3. **Create a branch** for your changes:

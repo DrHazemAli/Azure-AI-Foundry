@@ -63,6 +63,20 @@ The course is organized into comprehensive modules, each containing detailed les
 - [03-7: Monitoring, Performance, and Optimization](./03-Projects-and-Workflows/07-monitoring-performance-optimization.md)
 - [03-8: Advanced Deployment Strategies](./03-Projects-and-Workflows/08-advanced-deployment-strategies.md)
 
+### [Module 04: Service Overview](./04-Service-Overview/README.md)
+**Comprehensive overview of Azure AI Foundry services**
+
+- [04-1: Azure AI Foundry Models](./04-Service-Overview/01-azure-ai-foundry-models.md)
+- [04-2: Azure AI Foundry Agent Service](./04-Service-Overview/02-azure-ai-foundry-agent-service.md)
+- [04-3: Azure AI Language Services](./04-Service-Overview/03-azure-ai-language-services.md)
+- [04-4: Azure AI Vision Services](./04-Service-Overview/04-azure-ai-vision-services.md)
+- [04-5: Azure AI Speech Services](./04-Service-Overview/05-azure-ai-speech-services.md)
+- [04-6: Azure AI Document Intelligence](./04-Service-Overview/06-azure-ai-document-intelligence.md)
+- [04-7: Azure AI Content Safety](./04-Service-Overview/07-azure-ai-content-safety.md)
+- [04-8: Azure AI Search](./04-Service-Overview/08-azure-ai-search.md)
+- [04-9: Azure AI Content Understanding](./04-Service-Overview/09-azure-ai-content-understanding.md)
+- [04-10: Azure Machine Learning Integration](./04-Service-Overview/10-azure-machine-learning-integration.md)
+
 ## �� Code Samples
 
 Each module includes comprehensive code samples in multiple programming languages:
@@ -123,22 +137,26 @@ Samples/
 ### **Beginner Path** (New to Azure AI Foundry)
 1. Module 01: Introduction
 2. Module 02: Getting Started
-3. Module 03: Projects and Workflows
+3. Module 04: Service Overview
+4. Module 03: Projects and Workflows
 
 ### **Developer Path** (Experienced developers)
 1. Module 01: Introduction (Lessons 1-4)
 2. Module 02: Getting Started
-3. Module 03: Projects and Workflows
+3. Module 04: Service Overview
+4. Module 03: Projects and Workflows
 
 ### **Enterprise Architect Path** (Solution architects)
 1. Module 01: Introduction
-2. Module 03: Projects and Workflows
-3. Module 02: Getting Started (for hands-on experience)
+2. Module 04: Service Overview
+3. Module 03: Projects and Workflows
+4. Module 02: Getting Started (for hands-on experience)
 
 ### **Data Scientist Path** (ML practitioners)
 1. Module 01: Introduction
 2. Module 02: Getting Started
-3. Module 03: Projects and Workflows
+3. Module 04: Service Overview (focus on ML integration)
+4. Module 03: Projects and Workflows
 
 ## 🎯 Course Objectives
 
@@ -161,11 +179,11 @@ By completing this course, you will be able to:
 
 ## 📊 Course Metrics
 
-- **Total Modules**: 3 (Completed)
-- **Total Lessons**: 25
+- **Total Modules**: 4 (Completed)
+- **Total Lessons**: 35
 - **Code Samples**: Multiple complete applications
 - **Programming Languages**: 3 (C#, Python, JavaScript)
-- **Estimated Time**: 15-25 hours (self-paced)
+- **Estimated Time**: 20-35 hours (self-paced)
 - **Skill Level**: Beginner to Intermediate
 - **Last Updated**: January 2025
 
@@ -218,11 +236,12 @@ This course is actively maintained and updated to reflect the latest Azure AI Fo
 - Completed Module 01: Introduction (8 lessons)
 - Completed Module 02: Getting Started (9 lessons)
 - Completed Module 03: Projects and Workflows (8 lessons)
+- Completed Module 04: Service Overview (10 lessons)
 - Added comprehensive code samples in multiple languages
 - Enhanced security and governance content
+- Comprehensive service documentation based on official Microsoft sources
 
 **Future Modules Planned**:
-- Module 04: Service Overview
 - Module 05: SDK Guide
 - Module 06: Building AI Agents
 - Module 07: Advanced Topics
