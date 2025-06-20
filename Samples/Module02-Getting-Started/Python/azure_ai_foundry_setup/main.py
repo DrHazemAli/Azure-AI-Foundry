@@ -12,7 +12,7 @@ Features:
 - Comprehensive error handling
 - Logging and monitoring
 
-Author: Dr. Hazem Ali
+Author: Hazem Ali
 Course: Azure AI Foundry Zero-to-Hero
 Module: 02 - Getting Started
 """

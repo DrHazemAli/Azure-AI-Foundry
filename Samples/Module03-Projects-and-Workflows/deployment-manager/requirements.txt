@@ -1,0 +1,65 @@
+# Azure AI Foundry Advanced Deployment Manager
+# Requirements for Module 03 - Projects and Workflows
+
+# Core Azure AI and Identity
+azure-ai-inference>=1.0.0b2
+azure-identity>=1.15.0
+azure-core>=1.29.0
+
+# Azure Management SDKs
+azure-mgmt-cognitiveservices>=13.5.0
+azure-mgmt-resource>=23.0.0
+azure-mgmt-monitor>=6.0.2
+
+# Data Processing and Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+statistics-ext>=0.3.0
+
+# Configuration and Environment Management
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+PyYAML>=6.0.1
+
+# HTTP and API Clients
+aiohttp>=3.9.0
+httpx>=0.25.0
+requests>=2.31.0
+
+# Async Programming
+asyncio-extras>=1.3.2
+
+# CLI and Logging
+click>=8.1.0
+rich>=13.7.0
+colorama>=0.4.6
+
+# Testing Framework
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-mock>=3.12.0
+pytest-cov>=4.1.0
+
+# Development Tools
+black>=23.0.0
+flake8>=6.1.0
+mypy>=1.7.0
+isort>=5.12.0
+
+# Monitoring and Metrics
+prometheus-client>=0.19.0
+structlog>=23.2.0
+
+# Security and Encryption
+cryptography>=41.0.0
+keyring>=24.3.0
+
+# Utilities
+uuid>=1.30
+dataclasses-json>=0.6.0
+typing-extensions>=4.8.0
+
+# Optional: For advanced features
+# kubernetes>=28.1.0  # For Kubernetes deployments
+# terraform-client>=0.1.0  # For Terraform automation
+# grafana-api>=1.0.3  # For Grafana integration 

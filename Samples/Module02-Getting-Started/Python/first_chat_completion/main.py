@@ -14,7 +14,7 @@ Features:
 - Cost tracking and optimization
 - Security best practices
 
-Author: Dr. Hazem Ali
+Author: Hazem Ali
 Course: Azure AI Foundry Zero-to-Hero
 Module: 02 - Getting Started
 """

@@ -11,7 +11,7 @@
  * - Connection validation
  * - Error handling
  * 
- * @author Dr. Hazem Ali
+ * @author Hazem Ali
  * @course Azure AI Foundry Zero-to-Hero
  * @module 02 - Getting Started
  */

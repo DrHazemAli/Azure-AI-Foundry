@@ -24,7 +24,7 @@ This course is designed to take you from zero knowledge to hero-level expertise 
 
 ## 📚 Course Structure
 
-The course is organized into 10 comprehensive modules, each containing 4-12 detailed lessons with hands-on samples.
+The course is organized into comprehensive modules, each containing detailed lessons with hands-on samples.
 
 ### [Module 01: Introduction to Azure AI Foundry](./01-Introduction/README.md)
 **Foundation concepts and platform overview**
@@ -42,126 +42,28 @@ The course is organized into 10 comprehensive modules, each containing 4-12 deta
 **Hands-on setup and first steps**
 
 - [02-1: Azure Subscription and Prerequisites](./02-Getting-Started/01-azure-subscription-prerequisites.md)
-- [02-2: Creating Your First Project](./02-Getting-Started/02-creating-first-project.md)
-- [02-3: Understanding Project Types](./02-Getting-Started/03-understanding-project-types.md)
-- [02-4: Portal Navigation and Interface](./02-Getting-Started/04-portal-navigation-interface.md)
-- [02-5: Setting Up Development Environment](./02-Getting-Started/05-development-environment-setup.md)
-- [02-6: SDK Installation and Configuration](./02-Getting-Started/06-sdk-installation-configuration.md)
-- [02-7: Authentication and Security Setup](./02-Getting-Started/07-authentication-security-setup.md)
-- [02-8: Your First Chat Completion](./02-Getting-Started/08-first-chat-completion.md)
-- [02-9: Basic Error Handling and Troubleshooting](./02-Getting-Started/09-error-handling-troubleshooting.md)
+- [02-2: Azure AI Foundry Setup](./02-Getting-Started/02-azure-ai-foundry-setup.md)
+- [02-3: Development Environment Setup](./02-Getting-Started/03-development-environment-setup.md)
+- [02-4: Creating Your First AI Project](./02-Getting-Started/04-creating-first-ai-project.md)
+- [02-5: Azure AI Foundry Portal Walkthrough](./02-Getting-Started/05-azure-ai-foundry-portal-walkthrough.md)
+- [02-6: Model Selection and Deployment](./02-Getting-Started/06-model-selection-deployment.md)
+- [02-7: Basic Customization and Configuration](./02-Getting-Started/07-basic-customization-configuration.md)
+- [02-8: Monitoring and Optimization](./02-Getting-Started/08-monitoring-optimization.md)
+- [02-9: Troubleshooting and Best Practices](./02-Getting-Started/09-troubleshooting-best-practices.md)
 
 ### [Module 03: Projects and Workflows](./03-Projects-and-Workflows/README.md)
 **Project management and development workflows**
 
-- [03-1: Project Lifecycle Management](./03-Projects-and-Workflows/01-project-lifecycle-management.md)
-- [03-2: Foundry Projects vs Hub-Based Projects](./03-Projects-and-Workflows/02-foundry-vs-hub-projects.md)
-- [03-3: Resource Organization and Management](./03-Projects-and-Workflows/03-resource-organization-management.md)
-- [03-4: Collaboration and Team Management](./03-Projects-and-Workflows/04-collaboration-team-management.md)
-- [03-5: Version Control and CI/CD Integration](./03-Projects-and-Workflows/05-version-control-cicd.md)
-- [03-6: Environment Management (Dev/Test/Prod)](./03-Projects-and-Workflows/06-environment-management.md)
-- [03-7: Cost Management and Optimization](./03-Projects-and-Workflows/07-cost-management-optimization.md)
-- [03-8: Best Practices for Project Structure](./03-Projects-and-Workflows/08-project-structure-best-practices.md)
+- [03-1: Project Architecture and Design Patterns](./03-Projects-and-Workflows/01-project-architecture-design-patterns.md)
+- [03-2: Development Workflows and Methodologies](./03-Projects-and-Workflows/02-development-workflows-methodologies.md)
+- [03-3: Team Collaboration and Code Management](./03-Projects-and-Workflows/03-team-collaboration-code-management.md)
+- [03-4: Version Control and CI/CD for AI Projects](./03-Projects-and-Workflows/04-version-control-cicd-ai-projects.md)
+- [03-5: Environment Management and Configuration](./03-Projects-and-Workflows/05-environment-management-configuration.md)
+- [03-6: Security and Governance for AI Workflows](./03-Projects-and-Workflows/06-security-governance-ai-workflows.md)
+- [03-7: Monitoring, Performance, and Optimization](./03-Projects-and-Workflows/07-monitoring-performance-optimization.md)
+- [03-8: Advanced Deployment Strategies](./03-Projects-and-Workflows/08-advanced-deployment-strategies.md)
 
-### [Module 04: Service Overview](./04-Service-Overview/README.md)
-**Deep dive into Azure AI Foundry services**
-
-- [04-1: Azure AI Foundry Models Catalog](./04-Service-Overview/01-models-catalog.md)
-- [04-2: Model Deployment Options](./04-Service-Overview/02-model-deployment-options.md)
-- [04-3: Azure OpenAI Integration](./04-Service-Overview/03-azure-openai-integration.md)
-- [04-4: Third-Party Model Providers](./04-Service-Overview/04-third-party-providers.md)
-- [04-5: Model Router and Optimization](./04-Service-Overview/05-model-router-optimization.md)
-- [04-6: Content Safety and Responsible AI](./04-Service-Overview/06-content-safety-responsible-ai.md)
-- [04-7: Data and Knowledge Management](./04-Service-Overview/07-data-knowledge-management.md)
-- [04-8: Azure AI Search Integration](./04-Service-Overview/08-azure-ai-search-integration.md)
-- [04-9: Monitoring and Observability](./04-Service-Overview/09-monitoring-observability.md)
-- [04-10: Security and Compliance Features](./04-Service-Overview/10-security-compliance.md)
-
-### [Module 05: SDK Guide](./05-SDK-Guide/README.md)
-**Comprehensive SDK usage across languages**
-
-- [05-1: SDK Overview and Architecture](./05-SDK-Guide/01-sdk-overview-architecture.md)
-- [05-2: Python SDK Deep Dive](./05-SDK-Guide/02-python-sdk-deep-dive.md)
-- [05-3: C# SDK Deep Dive](./05-SDK-Guide/03-csharp-sdk-deep-dive.md)
-- [05-4: JavaScript/TypeScript SDK](./05-SDK-Guide/04-javascript-typescript-sdk.md)
-- [05-5: Java SDK Implementation](./05-SDK-Guide/05-java-sdk-implementation.md)
-- [05-6: REST API Usage](./05-SDK-Guide/06-rest-api-usage.md)
-- [05-7: Authentication Patterns](./05-SDK-Guide/07-authentication-patterns.md)
-- [05-8: Error Handling and Retry Logic](./05-SDK-Guide/08-error-handling-retry-logic.md)
-- [05-9: Performance Optimization](./05-SDK-Guide/09-performance-optimization.md)
-- [05-10: Testing and Debugging](./05-SDK-Guide/10-testing-debugging.md)
-
-### [Module 06: Building AI Agents](./06-Building-AI-Agents/README.md)
-**Agent development and orchestration**
-
-- [06-1: Introduction to AI Agents](./06-Building-AI-Agents/01-introduction-ai-agents.md)
-- [06-2: Foundry Agent Service Overview](./06-Building-AI-Agents/02-foundry-agent-service.md)
-- [06-3: Creating Your First Agent](./06-Building-AI-Agents/03-creating-first-agent.md)
-- [06-4: Agent Templates and Quick Starts](./06-Building-AI-Agents/04-agent-templates-quickstarts.md)
-- [06-5: Multi-Agent Orchestration](./06-Building-AI-Agents/05-multi-agent-orchestration.md)
-- [06-6: Agent-to-Agent Communication](./06-Building-AI-Agents/06-agent-to-agent-communication.md)
-- [06-7: Stateful Workflows and Context Management](./06-Building-AI-Agents/07-stateful-workflows-context.md)
-- [06-8: Tool Integration and Custom Actions](./06-Building-AI-Agents/08-tool-integration-custom-actions.md)
-- [06-9: Agent Deployment and Scaling](./06-Building-AI-Agents/09-agent-deployment-scaling.md)
-- [06-10: Agent Evaluation and Testing](./06-Building-AI-Agents/10-agent-evaluation-testing.md)
-- [06-11: Troubleshooting and Debugging Agents](./06-Building-AI-Agents/11-troubleshooting-debugging.md)
-- [06-12: Agent Best Practices](./06-Building-AI-Agents/12-agent-best-practices.md)
-
-### [Module 07: Advanced Topics](./07-Advanced-Topics/README.md)
-**Advanced features and enterprise scenarios**
-
-- [07-1: Fine-Tuning and Model Customization](./07-Advanced-Topics/01-fine-tuning-customization.md)
-- [07-2: Advanced RAG Patterns](./07-Advanced-Topics/02-advanced-rag-patterns.md)
-- [07-3: Agentic Retrieval and Search](./07-Advanced-Topics/03-agentic-retrieval-search.md)
-- [07-4: Enterprise Security and Governance](./07-Advanced-Topics/04-enterprise-security-governance.md)
-- [07-5: Network Isolation and Private Endpoints](./07-Advanced-Topics/05-network-isolation-private-endpoints.md)
-- [07-6: Custom Content Filters](./07-Advanced-Topics/06-custom-content-filters.md)
-- [07-7: Performance Tuning and Optimization](./07-Advanced-Topics/07-performance-tuning-optimization.md)
-- [07-8: Foundry Local and Edge Deployment](./07-Advanced-Topics/08-foundry-local-edge-deployment.md)
-- [07-9: Azure Arc Integration](./07-Advanced-Topics/09-azure-arc-integration.md)
-- [07-10: Advanced Monitoring and Analytics](./07-Advanced-Topics/10-advanced-monitoring-analytics.md)
-
-### [Module 08: Appendices](./08-Appendices/README.md)
-**Reference materials and additional resources**
-
-- [08-1: API Reference Quick Guide](./08-Appendices/01-api-reference-quick-guide.md)
-- [08-2: Error Codes and Troubleshooting](./08-Appendices/02-error-codes-troubleshooting.md)
-- [08-3: Best Practices Checklist](./08-Appendices/03-best-practices-checklist.md)
-- [08-4: Security Configuration Guide](./08-Appendices/04-security-configuration-guide.md)
-- [08-5: Performance Optimization Guide](./08-Appendices/05-performance-optimization-guide.md)
-- [08-6: Cost Optimization Strategies](./08-Appendices/06-cost-optimization-strategies.md)
-- [08-7: Migration Guide from Other Platforms](./08-Appendices/07-migration-guide.md)
-- [08-8: Frequently Asked Questions (FAQ)](./08-Appendices/08-frequently-asked-questions.md)
-- [08-9: Glossary of Terms](./08-Appendices/09-glossary-terms.md)
-- [08-10: Additional Resources and Links](./08-Appendices/10-additional-resources-links.md)
-
-### [Module 09: Model Catalog](./09-Model-Catalog/README.md)
-**Comprehensive guide to available models**
-
-- [09-1: Model Catalog Overview](./09-Model-Catalog/01-model-catalog-overview.md)
-- [09-2: Azure OpenAI Models](./09-Model-Catalog/02-azure-openai-models.md)
-- [09-3: Meta Llama Models](./09-Model-Catalog/03-meta-llama-models.md)
-- [09-4: Mistral AI Models](./09-Model-Catalog/04-mistral-ai-models.md)
-- [09-5: Hugging Face Models](./09-Model-Catalog/05-hugging-face-models.md)
-- [09-6: Specialized and Industry Models](./09-Model-Catalog/06-specialized-industry-models.md)
-- [09-7: Model Comparison and Selection](./09-Model-Catalog/07-model-comparison-selection.md)
-- [09-8: Model Evaluation and Benchmarking](./09-Model-Catalog/08-model-evaluation-benchmarking.md)
-- [09-9: Model Lifecycle Management](./09-Model-Catalog/09-model-lifecycle-management.md)
-- [09-10: Custom Model Integration](./09-Model-Catalog/10-custom-model-integration.md)
-
-### [Module 10: Interactive Video Generation](./10-Interactive-Video-Generation/README.md)
-**Cutting-edge video generation capabilities**
-
-- [10-1: Introduction to Video Generation](./10-Interactive-Video-Generation/01-introduction-video-generation.md)
-- [10-2: Sora Integration and Setup](./10-Interactive-Video-Generation/02-sora-integration-setup.md)
-- [10-3: Video Generation Workflows](./10-Interactive-Video-Generation/03-video-generation-workflows.md)
-- [10-4: Interactive Video Experiences](./10-Interactive-Video-Generation/04-interactive-video-experiences.md)
-- [10-5: Video Content Understanding](./10-Interactive-Video-Generation/05-video-content-understanding.md)
-- [10-6: Advanced Video Processing](./10-Interactive-Video-Generation/06-advanced-video-processing.md)
-- [10-7: Video Generation Best Practices](./10-Interactive-Video-Generation/07-video-generation-best-practices.md)
-- [10-8: Performance and Optimization](./10-Interactive-Video-Generation/08-performance-optimization.md)
-
-## 💻 Code Samples
+## �� Code Samples
 
 Each module includes comprehensive code samples in multiple programming languages:
 
@@ -169,21 +71,16 @@ Each module includes comprehensive code samples in multiple programming language
 - **C#** (.NET 8.0+)
 - **Python** (3.8+)
 - **JavaScript/TypeScript** (Node.js 18+)
-- **Java** (17+)
 
 ### Sample Structure
 ```
 Samples/
 ├── Module01-Introduction/          # Basic concepts and setup
 ├── Module02-Getting-Started/       # First steps and configuration
-├── Module03-Projects-Workflows/    # Project management samples
-├── Module04-Service-Overview/      # Service integration examples
-├── Module05-SDK-Guide/            # SDK usage patterns
-├── Module06-Building-AI-Agents/   # Agent development samples
-├── Module07-Advanced-Topics/      # Advanced implementation patterns
-├── Module08-Appendices/           # Reference implementations
-├── Module09-Model-Catalog/        # Model usage examples
-└── Module10-Video-Generation/     # Video generation samples
+│   ├── CSharp/                    # C# examples
+│   ├── Python/                    # Python examples
+│   └── JavaScript/                # JavaScript examples
+└── Module03-Projects-Workflows/   # Project management samples
 ```
 
 ### Sample Features
@@ -227,29 +124,21 @@ Samples/
 1. Module 01: Introduction
 2. Module 02: Getting Started
 3. Module 03: Projects and Workflows
-4. Module 04: Service Overview (Lessons 1-5)
-5. Module 05: SDK Guide (Your preferred language)
 
 ### **Developer Path** (Experienced developers)
 1. Module 01: Introduction (Lessons 1-4)
 2. Module 02: Getting Started
-3. Module 05: SDK Guide
-4. Module 06: Building AI Agents
-5. Module 07: Advanced Topics
+3. Module 03: Projects and Workflows
 
 ### **Enterprise Architect Path** (Solution architects)
 1. Module 01: Introduction
 2. Module 03: Projects and Workflows
-3. Module 04: Service Overview
-4. Module 07: Advanced Topics (Security and Governance)
-5. Module 08: Appendices
+3. Module 02: Getting Started (for hands-on experience)
 
 ### **Data Scientist Path** (ML practitioners)
 1. Module 01: Introduction
-2. Module 04: Service Overview
-3. Module 09: Model Catalog
-4. Module 07: Advanced Topics (Fine-tuning and RAG)
-5. Module 06: Building AI Agents
+2. Module 02: Getting Started
+3. Module 03: Projects and Workflows
 
 ## 🎯 Course Objectives
 
@@ -257,7 +146,7 @@ By completing this course, you will be able to:
 
 ### **Technical Skills**
 - ✅ Design and implement Azure AI Foundry solutions
-- ✅ Build and deploy AI agents and applications
+- ✅ Build and deploy AI applications
 - ✅ Integrate multiple models and services
 - ✅ Implement security and governance best practices
 - ✅ Optimize performance and costs
@@ -272,12 +161,12 @@ By completing this course, you will be able to:
 
 ## 📊 Course Metrics
 
-- **Total Modules**: 10
-- **Total Lessons**: 85+
-- **Code Samples**: 40+ complete applications
-- **Programming Languages**: 4 (C#, Python, JavaScript, Java)
-- **Estimated Time**: 40-60 hours (self-paced)
-- **Skill Level**: Beginner to Advanced
+- **Total Modules**: 3 (Completed)
+- **Total Lessons**: 25
+- **Code Samples**: Multiple complete applications
+- **Programming Languages**: 3 (C#, Python, JavaScript)
+- **Estimated Time**: 15-25 hours (self-paced)
+- **Skill Level**: Beginner to Intermediate
 - **Last Updated**: January 2025
 
 ## 🏆 Certification and Recognition
@@ -325,17 +214,21 @@ This course is based on official Microsoft documentation and best practices. Spe
 
 This course is actively maintained and updated to reflect the latest Azure AI Foundry features and capabilities. 
 
-**Latest Update**: January 2025
-- Added Module 10: Interactive Video Generation
-- Updated all samples to latest SDK versions
+**Latest Update**: June 2025
+- Completed Module 01: Introduction (8 lessons)
+- Completed Module 02: Getting Started (9 lessons)
+- Completed Module 03: Projects and Workflows (8 lessons)
+- Added comprehensive code samples in multiple languages
 - Enhanced security and governance content
-- Added new real-world use cases
 
-**Next Planned Updates**:
-- Additional industry-specific examples
-- Advanced multi-agent patterns
-- Performance optimization techniques
-- Integration with Microsoft 365 Copilot
+**Future Modules Planned**:
+- Module 04: Service Overview
+- Module 05: SDK Guide
+- Module 06: Building AI Agents
+- Module 07: Advanced Topics
+- Module 08: Appendices
+- Module 09: Model Catalog
+- Module 10: Interactive Video Generation
 
 ---
 

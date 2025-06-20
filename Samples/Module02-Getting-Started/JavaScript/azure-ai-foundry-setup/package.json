@@ -20,7 +20,7 @@
     "setup",
     "node.js"
   ],
-  "author": "Dr. Hazem Ali",
+  "author": "Hazem Ali",
   "license": "MIT",
   "dependencies": {
     "@azure/ai-inference": "^1.0.0-beta.2",
